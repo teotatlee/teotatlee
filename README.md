@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @teotatlee
-- 📫 How to reach me ...
+- 📫 You can reach me at sgttl@yahoo.com
 
 <!---
 teotatlee/teotatlee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
